@@ -32,11 +32,6 @@ The React User Profile Card project demonstrates how to fetch and display user i
 ### Steps
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/react-user-profile-card.git
-    cd react-user-profile-card
-    ```
-
 2. **Install dependencies**:
     ```bash
     npm install
